@@ -40,7 +40,7 @@ const Navbar = () => {
 
                 {/* Links for large screens */}
                 <div className="hidden md:flex space-x-6">
-                    <Link to="/" className="hover:text-black transition font-semibold">Book Details</Link>
+                    <Link to="/" className="hover:text-black transition font-semibold">Home</Link>
                     <Link to="/wishlist" className="hover:text-black transition font-semibold">Wishlist</Link>
                 </div>
             </div>
@@ -52,7 +52,7 @@ const Navbar = () => {
                 }`}
             >
                 <div className="px-4 space-y-2 pt-2">
-                    <Link to="/" className="block hover:text-black transition font-semibold">Book Details</Link>
+                    <Link to="/" className="block hover:text-black transition font-semibold">Home</Link>
                     <Link to="/wishlist" className="block hover:text-black transition font-semibold">Wishlist</Link>
                 </div>
             </div>

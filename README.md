@@ -56,11 +56,8 @@ Edit
 │   └── main.jsx
 ├── tailwind.config.js
 └── README.md
-📸 Screenshots
-Add your screenshots here if available.
 
-🧠 SOLID Principles Followed
-Single Responsibility: Each component has one responsibility.
+
 
 Open/Closed: Components are extendable via props, but closed for direct modification.
 
@@ -74,8 +71,6 @@ Dependency Inversion: Components rely on hooks/utilities instead of hardcoded lo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/book-listing-app.git
-cd book-listing-app
 npm install
 npm run dev
 📝 Author
@@ -105,4 +100,3 @@ Hasnat Evan
 
  Deployed and pushed to GitHub with proper commits
 
-🔗 
